@@ -1,0 +1,10 @@
+[
+  { "model": "RealESRGAN_x4plus",        "h": 540,  "w": 960,  "scale": 4 },
+  { "model": "realesr-general-x4v3",     "h": 540,  "w": 960,  "scale": 4 },
+  { "model": "realesr-general-wdn-x4v3", "h": 540,  "w": 960,  "scale": 4 },
+  { "model": "realesr-animevideov3",     "h": 540,  "w": 960,  "scale": 4 },
+  { "model": "RealESRGAN_x2plus",        "h": 720,  "w": 1280, "scale": 2 },
+  { "model": "realesr-general-x4v3",     "h": 720,  "w": 1280, "scale": 4 },
+  { "model": "realesr-general-wdn-x4v3", "h": 720,  "w": 1280, "scale": 4 },
+  { "model": "realesr-animevideov3",     "h": 720,  "w": 1280, "scale": 4 }
+]

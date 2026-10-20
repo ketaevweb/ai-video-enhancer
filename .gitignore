@@ -1,0 +1,8 @@
+# AI Video Enhancer
+*.engine
+*.pth
+models/*.onnx
+__pycache__/
+*.pyc
+logs/
+.vscode/
